@@ -1,0 +1,3 @@
+C:/Users/ninja/OneDrive/Projeto_2_DA/Project2Graphs/cmake-build-debug/CMakeFiles/Project2Graphs.dir
+C:/Users/ninja/OneDrive/Projeto_2_DA/Project2Graphs/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ninja/OneDrive/Projeto_2_DA/Project2Graphs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
